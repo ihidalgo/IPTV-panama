@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IPTV
 Canales de IPTV disponibles públicamente en Panamá
 
@@ -8,3 +9,6 @@ iOS/Android: https://www.whatsuptv.app/
 
 # Disclaimer
 No alojamos ningún contenido digital, los enlaces son proporcionados por el distribuidor de la emisión de forma oficial, mediante su propia web o servicio público.
+=======
+==test==
+>>>>>>> cd6cda5380c6d1041e05367cb65a06eb8496068c
