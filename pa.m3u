@@ -29,6 +29,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="CGTN.ch" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200" group-title="General;Documentary",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="America TeVe USA" tvg-logo="https://graph.facebook.com/americateve/picture?width=200&height=200" group-title="News",America TeVe USA
+https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
 #EXTINF:-1 tvg-country="CL;PA" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 #EXTINF:-1 tvg-country="CO;MX;PA" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Drama",Kanal D Drama
