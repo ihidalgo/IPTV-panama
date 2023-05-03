@@ -1,4 +1,4 @@
-# IPTV Panamá 🇵🇦
+# IPTV Panamá
 Canales IPTV disponibles públicamente
 
 # Uso ⚙️
