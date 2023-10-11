@@ -11,8 +11,6 @@ https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-id="HosannaVision.pa" tvg-logo="https://hosannavision.com/site/assets/files/1/hosanna-logo.png" group-title="Religious",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Mas23TV.pa" tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="Music",Mas23 TV
-#https://mediacp.us:8081/mas23tv/index.m3u8
 #EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="General | News | Entertainment",Nex TV Canal 21
 https://vcp4.myplaytv.com:1936/nextv/nextv/chunklist_w334901452.m3u8
 #EXTINF:-1 tvg-id="RPCTV.pa" tvg-logo="https://i.imgur.com/DzYPhdZ.png" group-title="Sports",RPC TV
@@ -35,3 +33,5 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 #EXTINF:-1 tvg-country="CO;MX;PA" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Drama",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="Mas23TV.pa" tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="Music",Mas23 TV
+https://mediacp.us:8081/mas23tv/index.m3u8
