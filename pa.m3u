@@ -12,7 +12,7 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-id="HosannaVision.pa" tvg-logo="https://hosannavision.com/site/assets/files/1/hosanna-logo.png" group-title="Religious",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Mas23TV.pa" tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="Music",Mas23 TV
-https://mediacp.us:8081/mas23tv/index.m3u8
+#https://mediacp.us:8081/mas23tv/index.m3u8
 #EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="General | News | Entertainment",Nex TV Canal 21
 https://vcp4.myplaytv.com:1936/nextv/nextv/chunklist_w334901452.m3u8
 #EXTINF:-1 tvg-id="RPCTV.pa" tvg-logo="https://i.imgur.com/DzYPhdZ.png" group-title="Sports",RPC TV
